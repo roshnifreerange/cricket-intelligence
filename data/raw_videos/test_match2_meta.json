@@ -1,0 +1,10 @@
+{
+  "match_id": "test_match2",
+  "format": "T20",
+  "team_a": "India",
+  "team_b": "Australia",
+  "source_url": "https://youtube.com/shorts/RtqShmBTUsc?si=aPjQaPhi22yKE5xi",
+  "video_path": "data/raw_videos/test_match2.mp4",
+  "duration_seconds": "18.858667",
+  "downloaded_at": "2026-04-14T13:50:09.922449"
+}

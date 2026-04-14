@@ -1,0 +1,38 @@
+[
+  {
+    "ball_id": "test_match_002_1_1",
+    "match_id": "test_match_002",
+    "innings": 1,
+    "over": 1,
+    "ball_number": 1,
+    "bowler_name": "Brett Lee",
+    "batsman_name": "Virender Sehwag",
+    "bowler_type": "pace",
+    "line": "outside_off",
+    "length": "good",
+    "variation": "none",
+    "bounce_behavior": "normal",
+    "movement": "none",
+    "shot_type": "defend",
+    "footwork": "front_foot",
+    "contact_quality": "clean",
+    "outcome": "dot",
+    "runs_scored": 0,
+    "confidence": {
+      "bowler_type": 1.0,
+      "line": 0.9,
+      "length": 0.9,
+      "shot_type": 0.9,
+      "outcome": 1.0,
+      "contact_quality": 0.9
+    },
+    "clip_path": "data/ball_clips/test_match_002/test_match_002_inn1_ov1_b1.mp4",
+    "clip_start_time": null,
+    "clip_end_time": null,
+    "raw_description": "Brett Lee bowls a good length delivery just outside off stump, which Virender Sehwag defends off the front foot, resulting in a dot ball.",
+    "is_reviewed": false,
+    "reviewed_by": null,
+    "created_at": "2026-04-14T13:54:48.161605",
+    "updated_at": "2026-04-14T13:54:48.161633"
+  }
+]

@@ -1,0 +1,43 @@
+# ===== Core =====
+python-dotenv>=1.0.0
+requests>=2.31.0            # HTTP client — used for Roboflow API calls
+
+# ===== Video Processing =====
+opencv-python>=4.9.0
+ffmpeg-python>=0.2.0
+yt-dlp>=2024.1.0
+
+# ===== Object Detection =====
+# NOTE: ultralytics, roboflow, supervision all have Python version constraints.
+# They are OPTIONAL — the system works without them (uses Roboflow cloud via requests).
+# If you're on Python <=3.12, install with: pip install ultralytics supervision roboflow
+# inference-sdk is REMOVED — it requires Python <3.13. We call the REST API directly.
+
+# ===== Dataset Download =====
+datasets>=2.18.0            # HuggingFace datasets (Cric-360 validation)
+huggingface_hub>=0.21.0     # HuggingFace authentication
+matplotlib>=3.8.0           # Validation plots
+
+# ===== AI / LLM =====
+google-genai>=1.0.0         # Gemini API (new unified SDK)
+
+# ===== Data & Validation =====
+pydantic>=2.5.0
+pandas>=2.1.0
+pyyaml>=6.0.0
+
+# ===== Storage =====
+sqlalchemy>=2.0.0
+
+# ===== API =====
+fastapi>=0.109.0
+uvicorn>=0.27.0
+
+# ===== Review UI =====
+streamlit>=1.31.0
+
+# ===== Utilities =====
+rich>=13.7.0                # Pretty terminal output
+tqdm>=4.66.0                # Progress bars
+numpy>=1.26.0
+Pillow>=10.2.0

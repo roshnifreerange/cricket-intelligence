@@ -1,0 +1,9 @@
+{
+  "match_id": "test_match_005",
+  "format": "T20",
+  "team_a": "Team A",
+  "team_b": "Team B",
+  "source_url": "local",
+  "video_path": "/Users/roshnisundrani/cricket-intelligence/data/raw_videos/match-005.mp4",
+  "downloaded_at": "2026-04-14T14:48:24.495908"
+}

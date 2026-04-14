@@ -1,0 +1,6009 @@
+{
+  "video_path": "data/raw_videos/match-005.mp4",
+  "output_path": null,
+  "total_frames": 750,
+  "detected_frames": 237,
+  "detection_rate": 0.316,
+  "trajectory": [
+    {
+      "frame": 0,
+      "time_sec": 0.0,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 1,
+      "time_sec": 0.03333333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 2,
+      "time_sec": 0.06666666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 3,
+      "time_sec": 0.1,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 4,
+      "time_sec": 0.13333333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 5,
+      "time_sec": 0.16666666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 6,
+      "time_sec": 0.2,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 7,
+      "time_sec": 0.23333333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 8,
+      "time_sec": 0.26666666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 9,
+      "time_sec": 0.3,
+      "detected": true,
+      "x": 67,
+      "y": 500,
+      "confidence": 0.27045491337776184
+    },
+    {
+      "frame": 10,
+      "time_sec": 0.3333333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 11,
+      "time_sec": 0.36666666666666664,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 12,
+      "time_sec": 0.4,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 13,
+      "time_sec": 0.43333333333333335,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 14,
+      "time_sec": 0.4666666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 15,
+      "time_sec": 0.5,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 16,
+      "time_sec": 0.5333333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 17,
+      "time_sec": 0.5666666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 18,
+      "time_sec": 0.6,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 19,
+      "time_sec": 0.6333333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 20,
+      "time_sec": 0.6666666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 21,
+      "time_sec": 0.7,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 22,
+      "time_sec": 0.7333333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 23,
+      "time_sec": 0.7666666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 24,
+      "time_sec": 0.8,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 25,
+      "time_sec": 0.8333333333333334,
+      "detected": true,
+      "x": 414,
+      "y": 407,
+      "confidence": 0.25877368450164795
+    },
+    {
+      "frame": 26,
+      "time_sec": 0.8666666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 27,
+      "time_sec": 0.9,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 28,
+      "time_sec": 0.9333333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 29,
+      "time_sec": 0.9666666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 30,
+      "time_sec": 1.0,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 31,
+      "time_sec": 1.0333333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 32,
+      "time_sec": 1.0666666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 33,
+      "time_sec": 1.1,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 34,
+      "time_sec": 1.1333333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 35,
+      "time_sec": 1.1666666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 36,
+      "time_sec": 1.2,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 37,
+      "time_sec": 1.2333333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 38,
+      "time_sec": 1.2666666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 39,
+      "time_sec": 1.3,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 40,
+      "time_sec": 1.3333333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 41,
+      "time_sec": 1.3666666666666667,
+      "detected": true,
+      "x": 141,
+      "y": 231,
+      "confidence": 0.3234618902206421
+    },
+    {
+      "frame": 42,
+      "time_sec": 1.4,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 43,
+      "time_sec": 1.4333333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 44,
+      "time_sec": 1.4666666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 45,
+      "time_sec": 1.5,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 46,
+      "time_sec": 1.5333333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 47,
+      "time_sec": 1.5666666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 48,
+      "time_sec": 1.6,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 49,
+      "time_sec": 1.6333333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 50,
+      "time_sec": 1.6666666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 51,
+      "time_sec": 1.7,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 52,
+      "time_sec": 1.7333333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 53,
+      "time_sec": 1.7666666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 54,
+      "time_sec": 1.8,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 55,
+      "time_sec": 1.8333333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 56,
+      "time_sec": 1.8666666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 57,
+      "time_sec": 1.9,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 58,
+      "time_sec": 1.9333333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 59,
+      "time_sec": 1.9666666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 60,
+      "time_sec": 2.0,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 61,
+      "time_sec": 2.033333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 62,
+      "time_sec": 2.066666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 63,
+      "time_sec": 2.1,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 64,
+      "time_sec": 2.1333333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 65,
+      "time_sec": 2.1666666666666665,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 66,
+      "time_sec": 2.2,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 67,
+      "time_sec": 2.2333333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 68,
+      "time_sec": 2.2666666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 69,
+      "time_sec": 2.3,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 70,
+      "time_sec": 2.3333333333333335,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 71,
+      "time_sec": 2.3666666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 72,
+      "time_sec": 2.4,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 73,
+      "time_sec": 2.433333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 74,
+      "time_sec": 2.466666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 75,
+      "time_sec": 2.5,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 76,
+      "time_sec": 2.533333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 77,
+      "time_sec": 2.566666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 78,
+      "time_sec": 2.6,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 79,
+      "time_sec": 2.6333333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 80,
+      "time_sec": 2.6666666666666665,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 81,
+      "time_sec": 2.7,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 82,
+      "time_sec": 2.7333333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 83,
+      "time_sec": 2.7666666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 84,
+      "time_sec": 2.8,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 85,
+      "time_sec": 2.8333333333333335,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 86,
+      "time_sec": 2.8666666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 87,
+      "time_sec": 2.9,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 88,
+      "time_sec": 2.933333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 89,
+      "time_sec": 2.966666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 90,
+      "time_sec": 3.0,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 91,
+      "time_sec": 3.033333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 92,
+      "time_sec": 3.066666666666667,
+      "detected": true,
+      "x": 176,
+      "y": 518,
+      "confidence": 0.29489418864250183
+    },
+    {
+      "frame": 93,
+      "time_sec": 3.1,
+      "detected": true,
+      "x": 176,
+      "y": 518,
+      "confidence": 0.4924573302268982
+    },
+    {
+      "frame": 94,
+      "time_sec": 3.1333333333333333,
+      "detected": true,
+      "x": 176,
+      "y": 518,
+      "confidence": 0.31838488578796387
+    },
+    {
+      "frame": 95,
+      "time_sec": 3.1666666666666665,
+      "detected": true,
+      "x": 387,
+      "y": 355,
+      "confidence": 0.538206934928894
+    },
+    {
+      "frame": 96,
+      "time_sec": 3.2,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 97,
+      "time_sec": 3.2333333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 98,
+      "time_sec": 3.2666666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 99,
+      "time_sec": 3.3,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 100,
+      "time_sec": 3.3333333333333335,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 101,
+      "time_sec": 3.3666666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 102,
+      "time_sec": 3.4,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 103,
+      "time_sec": 3.433333333333333,
+      "detected": true,
+      "x": 374,
+      "y": 340,
+      "confidence": 0.2601073980331421
+    },
+    {
+      "frame": 104,
+      "time_sec": 3.466666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 105,
+      "time_sec": 3.5,
+      "detected": true,
+      "x": 378,
+      "y": 350,
+      "confidence": 0.27832087874412537
+    },
+    {
+      "frame": 106,
+      "time_sec": 3.533333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 107,
+      "time_sec": 3.566666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 108,
+      "time_sec": 3.6,
+      "detected": true,
+      "x": 391,
+      "y": 383,
+      "confidence": 0.31333935260772705
+    },
+    {
+      "frame": 109,
+      "time_sec": 3.6333333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 110,
+      "time_sec": 3.6666666666666665,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 111,
+      "time_sec": 3.7,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 112,
+      "time_sec": 3.7333333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 113,
+      "time_sec": 3.7666666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 114,
+      "time_sec": 3.8,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 115,
+      "time_sec": 3.8333333333333335,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 116,
+      "time_sec": 3.8666666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 117,
+      "time_sec": 3.9,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 118,
+      "time_sec": 3.933333333333333,
+      "detected": true,
+      "x": 386,
+      "y": 462,
+      "confidence": 0.5079082250595093
+    },
+    {
+      "frame": 119,
+      "time_sec": 3.966666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 120,
+      "time_sec": 4.0,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 121,
+      "time_sec": 4.033333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 122,
+      "time_sec": 4.066666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 123,
+      "time_sec": 4.1,
+      "detected": true,
+      "x": 413,
+      "y": 424,
+      "confidence": 0.6710413694381714
+    },
+    {
+      "frame": 124,
+      "time_sec": 4.133333333333334,
+      "detected": true,
+      "x": 428,
+      "y": 427,
+      "confidence": 0.5923483967781067
+    },
+    {
+      "frame": 125,
+      "time_sec": 4.166666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 126,
+      "time_sec": 4.2,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 127,
+      "time_sec": 4.233333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 128,
+      "time_sec": 4.266666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 129,
+      "time_sec": 4.3,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 130,
+      "time_sec": 4.333333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 131,
+      "time_sec": 4.366666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 132,
+      "time_sec": 4.4,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 133,
+      "time_sec": 4.433333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 134,
+      "time_sec": 4.466666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 135,
+      "time_sec": 4.5,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 136,
+      "time_sec": 4.533333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 137,
+      "time_sec": 4.566666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 138,
+      "time_sec": 4.6,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 139,
+      "time_sec": 4.633333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 140,
+      "time_sec": 4.666666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 141,
+      "time_sec": 4.7,
+      "detected": true,
+      "x": 275,
+      "y": 440,
+      "confidence": 0.7806470394134521
+    },
+    {
+      "frame": 142,
+      "time_sec": 4.733333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 143,
+      "time_sec": 4.766666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 144,
+      "time_sec": 4.8,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 145,
+      "time_sec": 4.833333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 146,
+      "time_sec": 4.866666666666666,
+      "detected": true,
+      "x": 180,
+      "y": 294,
+      "confidence": 0.34933972358703613
+    },
+    {
+      "frame": 147,
+      "time_sec": 4.9,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 148,
+      "time_sec": 4.933333333333334,
+      "detected": true,
+      "x": 172,
+      "y": 294,
+      "confidence": 0.3348294198513031
+    },
+    {
+      "frame": 149,
+      "time_sec": 4.966666666666667,
+      "detected": true,
+      "x": 171,
+      "y": 294,
+      "confidence": 0.4489641487598419
+    },
+    {
+      "frame": 150,
+      "time_sec": 5.0,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 151,
+      "time_sec": 5.033333333333333,
+      "detected": true,
+      "x": 164,
+      "y": 291,
+      "confidence": 0.2816450595855713
+    },
+    {
+      "frame": 152,
+      "time_sec": 5.066666666666666,
+      "detected": true,
+      "x": 163,
+      "y": 290,
+      "confidence": 0.2546263039112091
+    },
+    {
+      "frame": 153,
+      "time_sec": 5.1,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 154,
+      "time_sec": 5.133333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 155,
+      "time_sec": 5.166666666666667,
+      "detected": true,
+      "x": 156,
+      "y": 285,
+      "confidence": 0.27494606375694275
+    },
+    {
+      "frame": 156,
+      "time_sec": 5.2,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 157,
+      "time_sec": 5.233333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 158,
+      "time_sec": 5.266666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 159,
+      "time_sec": 5.3,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 160,
+      "time_sec": 5.333333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 161,
+      "time_sec": 5.366666666666666,
+      "detected": true,
+      "x": 141,
+      "y": 275,
+      "confidence": 0.32819074392318726
+    },
+    {
+      "frame": 162,
+      "time_sec": 5.4,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 163,
+      "time_sec": 5.433333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 164,
+      "time_sec": 5.466666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 165,
+      "time_sec": 5.5,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 166,
+      "time_sec": 5.533333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 167,
+      "time_sec": 5.566666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 168,
+      "time_sec": 5.6,
+      "detected": true,
+      "x": 125,
+      "y": 270,
+      "confidence": 0.31324028968811035
+    },
+    {
+      "frame": 169,
+      "time_sec": 5.633333333333334,
+      "detected": true,
+      "x": 122,
+      "y": 270,
+      "confidence": 0.5176957845687866
+    },
+    {
+      "frame": 170,
+      "time_sec": 5.666666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 171,
+      "time_sec": 5.7,
+      "detected": true,
+      "x": 118,
+      "y": 269,
+      "confidence": 0.35056617856025696
+    },
+    {
+      "frame": 172,
+      "time_sec": 5.733333333333333,
+      "detected": true,
+      "x": 115,
+      "y": 268,
+      "confidence": 0.5707506537437439
+    },
+    {
+      "frame": 173,
+      "time_sec": 5.766666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 174,
+      "time_sec": 5.8,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 175,
+      "time_sec": 5.833333333333333,
+      "detected": true,
+      "x": 108,
+      "y": 269,
+      "confidence": 0.6254773139953613
+    },
+    {
+      "frame": 176,
+      "time_sec": 5.866666666666666,
+      "detected": true,
+      "x": 107,
+      "y": 269,
+      "confidence": 0.3849267363548279
+    },
+    {
+      "frame": 177,
+      "time_sec": 5.9,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 178,
+      "time_sec": 5.933333333333334,
+      "detected": true,
+      "x": 101,
+      "y": 269,
+      "confidence": 0.6873960494995117
+    },
+    {
+      "frame": 179,
+      "time_sec": 5.966666666666667,
+      "detected": true,
+      "x": 100,
+      "y": 269,
+      "confidence": 0.7254791855812073
+    },
+    {
+      "frame": 180,
+      "time_sec": 6.0,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 181,
+      "time_sec": 6.033333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 182,
+      "time_sec": 6.066666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 183,
+      "time_sec": 6.1,
+      "detected": true,
+      "x": 92,
+      "y": 270,
+      "confidence": 0.4098470211029053
+    },
+    {
+      "frame": 184,
+      "time_sec": 6.133333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 185,
+      "time_sec": 6.166666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 186,
+      "time_sec": 6.2,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 187,
+      "time_sec": 6.233333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 188,
+      "time_sec": 6.266666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 189,
+      "time_sec": 6.3,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 190,
+      "time_sec": 6.333333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 191,
+      "time_sec": 6.366666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 192,
+      "time_sec": 6.4,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 193,
+      "time_sec": 6.433333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 194,
+      "time_sec": 6.466666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 195,
+      "time_sec": 6.5,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 196,
+      "time_sec": 6.533333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 197,
+      "time_sec": 6.566666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 198,
+      "time_sec": 6.6,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 199,
+      "time_sec": 6.633333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 200,
+      "time_sec": 6.666666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 201,
+      "time_sec": 6.7,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 202,
+      "time_sec": 6.733333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 203,
+      "time_sec": 6.766666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 204,
+      "time_sec": 6.8,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 205,
+      "time_sec": 6.833333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 206,
+      "time_sec": 6.866666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 207,
+      "time_sec": 6.9,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 208,
+      "time_sec": 6.933333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 209,
+      "time_sec": 6.966666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 210,
+      "time_sec": 7.0,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 211,
+      "time_sec": 7.033333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 212,
+      "time_sec": 7.066666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 213,
+      "time_sec": 7.1,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 214,
+      "time_sec": 7.133333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 215,
+      "time_sec": 7.166666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 216,
+      "time_sec": 7.2,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 217,
+      "time_sec": 7.233333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 218,
+      "time_sec": 7.266666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 219,
+      "time_sec": 7.3,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 220,
+      "time_sec": 7.333333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 221,
+      "time_sec": 7.366666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 222,
+      "time_sec": 7.4,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 223,
+      "time_sec": 7.433333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 224,
+      "time_sec": 7.466666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 225,
+      "time_sec": 7.5,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 226,
+      "time_sec": 7.533333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 227,
+      "time_sec": 7.566666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 228,
+      "time_sec": 7.6,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 229,
+      "time_sec": 7.633333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 230,
+      "time_sec": 7.666666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 231,
+      "time_sec": 7.7,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 232,
+      "time_sec": 7.733333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 233,
+      "time_sec": 7.766666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 234,
+      "time_sec": 7.8,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 235,
+      "time_sec": 7.833333333333333,
+      "detected": true,
+      "x": 205,
+      "y": 181,
+      "confidence": 0.5670650005340576
+    },
+    {
+      "frame": 236,
+      "time_sec": 7.866666666666666,
+      "detected": true,
+      "x": 214,
+      "y": 182,
+      "confidence": 0.582627534866333
+    },
+    {
+      "frame": 237,
+      "time_sec": 7.9,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 238,
+      "time_sec": 7.933333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 239,
+      "time_sec": 7.966666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 240,
+      "time_sec": 8.0,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 241,
+      "time_sec": 8.033333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 242,
+      "time_sec": 8.066666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 243,
+      "time_sec": 8.1,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 244,
+      "time_sec": 8.133333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 245,
+      "time_sec": 8.166666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 246,
+      "time_sec": 8.2,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 247,
+      "time_sec": 8.233333333333333,
+      "detected": true,
+      "x": 294,
+      "y": 148,
+      "confidence": 0.293148398399353
+    },
+    {
+      "frame": 248,
+      "time_sec": 8.266666666666667,
+      "detected": true,
+      "x": 297,
+      "y": 147,
+      "confidence": 0.25434818863868713
+    },
+    {
+      "frame": 249,
+      "time_sec": 8.3,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 250,
+      "time_sec": 8.333333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 251,
+      "time_sec": 8.366666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 252,
+      "time_sec": 8.4,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 253,
+      "time_sec": 8.433333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 254,
+      "time_sec": 8.466666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 255,
+      "time_sec": 8.5,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 256,
+      "time_sec": 8.533333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 257,
+      "time_sec": 8.566666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 258,
+      "time_sec": 8.6,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 259,
+      "time_sec": 8.633333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 260,
+      "time_sec": 8.666666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 261,
+      "time_sec": 8.7,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 262,
+      "time_sec": 8.733333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 263,
+      "time_sec": 8.766666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 264,
+      "time_sec": 8.8,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 265,
+      "time_sec": 8.833333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 266,
+      "time_sec": 8.866666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 267,
+      "time_sec": 8.9,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 268,
+      "time_sec": 8.933333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 269,
+      "time_sec": 8.966666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 270,
+      "time_sec": 9.0,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 271,
+      "time_sec": 9.033333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 272,
+      "time_sec": 9.066666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 273,
+      "time_sec": 9.1,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 274,
+      "time_sec": 9.133333333333333,
+      "detected": true,
+      "x": 244,
+      "y": 219,
+      "confidence": 0.32156237959861755
+    },
+    {
+      "frame": 275,
+      "time_sec": 9.166666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 276,
+      "time_sec": 9.2,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 277,
+      "time_sec": 9.233333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 278,
+      "time_sec": 9.266666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 279,
+      "time_sec": 9.3,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 280,
+      "time_sec": 9.333333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 281,
+      "time_sec": 9.366666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 282,
+      "time_sec": 9.4,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 283,
+      "time_sec": 9.433333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 284,
+      "time_sec": 9.466666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 285,
+      "time_sec": 9.5,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 286,
+      "time_sec": 9.533333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 287,
+      "time_sec": 9.566666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 288,
+      "time_sec": 9.6,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 289,
+      "time_sec": 9.633333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 290,
+      "time_sec": 9.666666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 291,
+      "time_sec": 9.7,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 292,
+      "time_sec": 9.733333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 293,
+      "time_sec": 9.766666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 294,
+      "time_sec": 9.8,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 295,
+      "time_sec": 9.833333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 296,
+      "time_sec": 9.866666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 297,
+      "time_sec": 9.9,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 298,
+      "time_sec": 9.933333333333334,
+      "detected": true,
+      "x": 75,
+      "y": 290,
+      "confidence": 0.4738991856575012
+    },
+    {
+      "frame": 299,
+      "time_sec": 9.966666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 300,
+      "time_sec": 10.0,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 301,
+      "time_sec": 10.033333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 302,
+      "time_sec": 10.066666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 303,
+      "time_sec": 10.1,
+      "detected": true,
+      "x": 234,
+      "y": 221,
+      "confidence": 0.39025402069091797
+    },
+    {
+      "frame": 304,
+      "time_sec": 10.133333333333333,
+      "detected": true,
+      "x": 234,
+      "y": 221,
+      "confidence": 0.47734272480010986
+    },
+    {
+      "frame": 305,
+      "time_sec": 10.166666666666666,
+      "detected": true,
+      "x": 234,
+      "y": 221,
+      "confidence": 0.6619278788566589
+    },
+    {
+      "frame": 306,
+      "time_sec": 10.2,
+      "detected": true,
+      "x": 234,
+      "y": 221,
+      "confidence": 0.5734785795211792
+    },
+    {
+      "frame": 307,
+      "time_sec": 10.233333333333333,
+      "detected": true,
+      "x": 235,
+      "y": 221,
+      "confidence": 0.49448874592781067
+    },
+    {
+      "frame": 308,
+      "time_sec": 10.266666666666667,
+      "detected": true,
+      "x": 235,
+      "y": 221,
+      "confidence": 0.29677173495292664
+    },
+    {
+      "frame": 309,
+      "time_sec": 10.3,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 310,
+      "time_sec": 10.333333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 311,
+      "time_sec": 10.366666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 312,
+      "time_sec": 10.4,
+      "detected": true,
+      "x": 181,
+      "y": 269,
+      "confidence": 0.563936173915863
+    },
+    {
+      "frame": 313,
+      "time_sec": 10.433333333333334,
+      "detected": true,
+      "x": 187,
+      "y": 265,
+      "confidence": 0.40903162956237793
+    },
+    {
+      "frame": 314,
+      "time_sec": 10.466666666666667,
+      "detected": true,
+      "x": 201,
+      "y": 255,
+      "confidence": 0.4395334720611572
+    },
+    {
+      "frame": 315,
+      "time_sec": 10.5,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 316,
+      "time_sec": 10.533333333333333,
+      "detected": true,
+      "x": 235,
+      "y": 222,
+      "confidence": 0.6197053790092468
+    },
+    {
+      "frame": 317,
+      "time_sec": 10.566666666666666,
+      "detected": true,
+      "x": 235,
+      "y": 221,
+      "confidence": 0.5091043710708618
+    },
+    {
+      "frame": 318,
+      "time_sec": 10.6,
+      "detected": true,
+      "x": 236,
+      "y": 220,
+      "confidence": 0.25956282019615173
+    },
+    {
+      "frame": 319,
+      "time_sec": 10.633333333333333,
+      "detected": true,
+      "x": 421,
+      "y": 237,
+      "confidence": 0.2730986475944519
+    },
+    {
+      "frame": 320,
+      "time_sec": 10.666666666666666,
+      "detected": true,
+      "x": 236,
+      "y": 220,
+      "confidence": 0.5413203239440918
+    },
+    {
+      "frame": 321,
+      "time_sec": 10.7,
+      "detected": true,
+      "x": 236,
+      "y": 220,
+      "confidence": 0.6624317765235901
+    },
+    {
+      "frame": 322,
+      "time_sec": 10.733333333333333,
+      "detected": true,
+      "x": 236,
+      "y": 221,
+      "confidence": 0.7294291257858276
+    },
+    {
+      "frame": 323,
+      "time_sec": 10.766666666666667,
+      "detected": true,
+      "x": 235,
+      "y": 221,
+      "confidence": 0.6507999300956726
+    },
+    {
+      "frame": 324,
+      "time_sec": 10.8,
+      "detected": true,
+      "x": 236,
+      "y": 220,
+      "confidence": 0.6101874113082886
+    },
+    {
+      "frame": 325,
+      "time_sec": 10.833333333333334,
+      "detected": true,
+      "x": 235,
+      "y": 221,
+      "confidence": 0.5703535079956055
+    },
+    {
+      "frame": 326,
+      "time_sec": 10.866666666666667,
+      "detected": true,
+      "x": 235,
+      "y": 221,
+      "confidence": 0.46651679277420044
+    },
+    {
+      "frame": 327,
+      "time_sec": 10.9,
+      "detected": true,
+      "x": 235,
+      "y": 221,
+      "confidence": 0.612154483795166
+    },
+    {
+      "frame": 328,
+      "time_sec": 10.933333333333334,
+      "detected": true,
+      "x": 235,
+      "y": 221,
+      "confidence": 0.5922482013702393
+    },
+    {
+      "frame": 329,
+      "time_sec": 10.966666666666667,
+      "detected": true,
+      "x": 236,
+      "y": 221,
+      "confidence": 0.6959083676338196
+    },
+    {
+      "frame": 330,
+      "time_sec": 11.0,
+      "detected": true,
+      "x": 235,
+      "y": 221,
+      "confidence": 0.5312922596931458
+    },
+    {
+      "frame": 331,
+      "time_sec": 11.033333333333333,
+      "detected": true,
+      "x": 235,
+      "y": 221,
+      "confidence": 0.5324945449829102
+    },
+    {
+      "frame": 332,
+      "time_sec": 11.066666666666666,
+      "detected": true,
+      "x": 235,
+      "y": 221,
+      "confidence": 0.411970317363739
+    },
+    {
+      "frame": 333,
+      "time_sec": 11.1,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 334,
+      "time_sec": 11.133333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 335,
+      "time_sec": 11.166666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 336,
+      "time_sec": 11.2,
+      "detected": true,
+      "x": 421,
+      "y": 238,
+      "confidence": 0.44360795617103577
+    },
+    {
+      "frame": 337,
+      "time_sec": 11.233333333333333,
+      "detected": true,
+      "x": 421,
+      "y": 238,
+      "confidence": 0.4194243252277374
+    },
+    {
+      "frame": 338,
+      "time_sec": 11.266666666666667,
+      "detected": true,
+      "x": 178,
+      "y": 258,
+      "confidence": 0.41170457005500793
+    },
+    {
+      "frame": 339,
+      "time_sec": 11.3,
+      "detected": true,
+      "x": 179,
+      "y": 255,
+      "confidence": 0.26910093426704407
+    },
+    {
+      "frame": 340,
+      "time_sec": 11.333333333333334,
+      "detected": true,
+      "x": 181,
+      "y": 254,
+      "confidence": 0.5048585534095764
+    },
+    {
+      "frame": 341,
+      "time_sec": 11.366666666666667,
+      "detected": true,
+      "x": 183,
+      "y": 252,
+      "confidence": 0.3031297028064728
+    },
+    {
+      "frame": 342,
+      "time_sec": 11.4,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 343,
+      "time_sec": 11.433333333333334,
+      "detected": true,
+      "x": 187,
+      "y": 250,
+      "confidence": 0.36617717146873474
+    },
+    {
+      "frame": 344,
+      "time_sec": 11.466666666666667,
+      "detected": true,
+      "x": 188,
+      "y": 249,
+      "confidence": 0.3004295527935028
+    },
+    {
+      "frame": 345,
+      "time_sec": 11.5,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 346,
+      "time_sec": 11.533333333333333,
+      "detected": true,
+      "x": 477,
+      "y": 125,
+      "confidence": 0.3982751667499542
+    },
+    {
+      "frame": 347,
+      "time_sec": 11.566666666666666,
+      "detected": true,
+      "x": 477,
+      "y": 119,
+      "confidence": 0.32390496134757996
+    },
+    {
+      "frame": 348,
+      "time_sec": 11.6,
+      "detected": true,
+      "x": 194,
+      "y": 243,
+      "confidence": 0.3057895600795746
+    },
+    {
+      "frame": 349,
+      "time_sec": 11.633333333333333,
+      "detected": true,
+      "x": 195,
+      "y": 242,
+      "confidence": 0.3954756557941437
+    },
+    {
+      "frame": 350,
+      "time_sec": 11.666666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 351,
+      "time_sec": 11.7,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 352,
+      "time_sec": 11.733333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 353,
+      "time_sec": 11.766666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 354,
+      "time_sec": 11.8,
+      "detected": true,
+      "x": 202,
+      "y": 238,
+      "confidence": 0.43680983781814575
+    },
+    {
+      "frame": 355,
+      "time_sec": 11.833333333333334,
+      "detected": true,
+      "x": 203,
+      "y": 237,
+      "confidence": 0.5439195036888123
+    },
+    {
+      "frame": 356,
+      "time_sec": 11.866666666666667,
+      "detected": true,
+      "x": 204,
+      "y": 237,
+      "confidence": 0.7148454785346985
+    },
+    {
+      "frame": 357,
+      "time_sec": 11.9,
+      "detected": true,
+      "x": 205,
+      "y": 237,
+      "confidence": 0.5732494592666626
+    },
+    {
+      "frame": 358,
+      "time_sec": 11.933333333333334,
+      "detected": true,
+      "x": 205,
+      "y": 237,
+      "confidence": 0.41644424200057983
+    },
+    {
+      "frame": 359,
+      "time_sec": 11.966666666666667,
+      "detected": true,
+      "x": 206,
+      "y": 238,
+      "confidence": 0.337130606174469
+    },
+    {
+      "frame": 360,
+      "time_sec": 12.0,
+      "detected": true,
+      "x": 207,
+      "y": 238,
+      "confidence": 0.2950632572174072
+    },
+    {
+      "frame": 361,
+      "time_sec": 12.033333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 362,
+      "time_sec": 12.066666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 363,
+      "time_sec": 12.1,
+      "detected": true,
+      "x": 209,
+      "y": 238,
+      "confidence": 0.3324319124221802
+    },
+    {
+      "frame": 364,
+      "time_sec": 12.133333333333333,
+      "detected": true,
+      "x": 209,
+      "y": 238,
+      "confidence": 0.3057292103767395
+    },
+    {
+      "frame": 365,
+      "time_sec": 12.166666666666666,
+      "detected": true,
+      "x": 210,
+      "y": 238,
+      "confidence": 0.3203592896461487
+    },
+    {
+      "frame": 366,
+      "time_sec": 12.2,
+      "detected": true,
+      "x": 210,
+      "y": 238,
+      "confidence": 0.4596123695373535
+    },
+    {
+      "frame": 367,
+      "time_sec": 12.233333333333333,
+      "detected": true,
+      "x": 210,
+      "y": 238,
+      "confidence": 0.5258293747901917
+    },
+    {
+      "frame": 368,
+      "time_sec": 12.266666666666667,
+      "detected": true,
+      "x": 211,
+      "y": 238,
+      "confidence": 0.562894344329834
+    },
+    {
+      "frame": 369,
+      "time_sec": 12.3,
+      "detected": true,
+      "x": 210,
+      "y": 238,
+      "confidence": 0.526177167892456
+    },
+    {
+      "frame": 370,
+      "time_sec": 12.333333333333334,
+      "detected": true,
+      "x": 211,
+      "y": 238,
+      "confidence": 0.5641465187072754
+    },
+    {
+      "frame": 371,
+      "time_sec": 12.366666666666667,
+      "detected": true,
+      "x": 211,
+      "y": 238,
+      "confidence": 0.5411497354507446
+    },
+    {
+      "frame": 372,
+      "time_sec": 12.4,
+      "detected": true,
+      "x": 211,
+      "y": 238,
+      "confidence": 0.5190322399139404
+    },
+    {
+      "frame": 373,
+      "time_sec": 12.433333333333334,
+      "detected": true,
+      "x": 211,
+      "y": 238,
+      "confidence": 0.46187353134155273
+    },
+    {
+      "frame": 374,
+      "time_sec": 12.466666666666667,
+      "detected": true,
+      "x": 211,
+      "y": 238,
+      "confidence": 0.41058653593063354
+    },
+    {
+      "frame": 375,
+      "time_sec": 12.5,
+      "detected": true,
+      "x": 211,
+      "y": 238,
+      "confidence": 0.4115563929080963
+    },
+    {
+      "frame": 376,
+      "time_sec": 12.533333333333333,
+      "detected": true,
+      "x": 210,
+      "y": 238,
+      "confidence": 0.37778159976005554
+    },
+    {
+      "frame": 377,
+      "time_sec": 12.566666666666666,
+      "detected": true,
+      "x": 210,
+      "y": 238,
+      "confidence": 0.37523868680000305
+    },
+    {
+      "frame": 378,
+      "time_sec": 12.6,
+      "detected": true,
+      "x": 210,
+      "y": 238,
+      "confidence": 0.36641940474510193
+    },
+    {
+      "frame": 379,
+      "time_sec": 12.633333333333333,
+      "detected": true,
+      "x": 210,
+      "y": 238,
+      "confidence": 0.35129404067993164
+    },
+    {
+      "frame": 380,
+      "time_sec": 12.666666666666666,
+      "detected": true,
+      "x": 210,
+      "y": 239,
+      "confidence": 0.25079822540283203
+    },
+    {
+      "frame": 381,
+      "time_sec": 12.7,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 382,
+      "time_sec": 12.733333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 383,
+      "time_sec": 12.766666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 384,
+      "time_sec": 12.8,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 385,
+      "time_sec": 12.833333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 386,
+      "time_sec": 12.866666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 387,
+      "time_sec": 12.9,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 388,
+      "time_sec": 12.933333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 389,
+      "time_sec": 12.966666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 390,
+      "time_sec": 13.0,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 391,
+      "time_sec": 13.033333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 392,
+      "time_sec": 13.066666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 393,
+      "time_sec": 13.1,
+      "detected": true,
+      "x": 206,
+      "y": 244,
+      "confidence": 0.2585717439651489
+    },
+    {
+      "frame": 394,
+      "time_sec": 13.133333333333333,
+      "detected": true,
+      "x": 206,
+      "y": 244,
+      "confidence": 0.31866100430488586
+    },
+    {
+      "frame": 395,
+      "time_sec": 13.166666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 396,
+      "time_sec": 13.2,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 397,
+      "time_sec": 13.233333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 398,
+      "time_sec": 13.266666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 399,
+      "time_sec": 13.3,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 400,
+      "time_sec": 13.333333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 401,
+      "time_sec": 13.366666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 402,
+      "time_sec": 13.4,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 403,
+      "time_sec": 13.433333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 404,
+      "time_sec": 13.466666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 405,
+      "time_sec": 13.5,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 406,
+      "time_sec": 13.533333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 407,
+      "time_sec": 13.566666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 408,
+      "time_sec": 13.6,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 409,
+      "time_sec": 13.633333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 410,
+      "time_sec": 13.666666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 411,
+      "time_sec": 13.7,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 412,
+      "time_sec": 13.733333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 413,
+      "time_sec": 13.766666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 414,
+      "time_sec": 13.8,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 415,
+      "time_sec": 13.833333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 416,
+      "time_sec": 13.866666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 417,
+      "time_sec": 13.9,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 418,
+      "time_sec": 13.933333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 419,
+      "time_sec": 13.966666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 420,
+      "time_sec": 14.0,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 421,
+      "time_sec": 14.033333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 422,
+      "time_sec": 14.066666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 423,
+      "time_sec": 14.1,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 424,
+      "time_sec": 14.133333333333333,
+      "detected": true,
+      "x": 176,
+      "y": 518,
+      "confidence": 0.2686914801597595
+    },
+    {
+      "frame": 425,
+      "time_sec": 14.166666666666666,
+      "detected": true,
+      "x": 176,
+      "y": 518,
+      "confidence": 0.37997859716415405
+    },
+    {
+      "frame": 426,
+      "time_sec": 14.2,
+      "detected": true,
+      "x": 176,
+      "y": 518,
+      "confidence": 0.2730454206466675
+    },
+    {
+      "frame": 427,
+      "time_sec": 14.233333333333333,
+      "detected": true,
+      "x": 176,
+      "y": 518,
+      "confidence": 0.3838655352592468
+    },
+    {
+      "frame": 428,
+      "time_sec": 14.266666666666667,
+      "detected": true,
+      "x": 176,
+      "y": 518,
+      "confidence": 0.6097639203071594
+    },
+    {
+      "frame": 429,
+      "time_sec": 14.3,
+      "detected": true,
+      "x": 175,
+      "y": 518,
+      "confidence": 0.7053350806236267
+    },
+    {
+      "frame": 430,
+      "time_sec": 14.333333333333334,
+      "detected": true,
+      "x": 176,
+      "y": 518,
+      "confidence": 0.7178148031234741
+    },
+    {
+      "frame": 431,
+      "time_sec": 14.366666666666667,
+      "detected": true,
+      "x": 176,
+      "y": 518,
+      "confidence": 0.6131134033203125
+    },
+    {
+      "frame": 432,
+      "time_sec": 14.4,
+      "detected": true,
+      "x": 387,
+      "y": 353,
+      "confidence": 0.6816070079803467
+    },
+    {
+      "frame": 433,
+      "time_sec": 14.433333333333334,
+      "detected": true,
+      "x": 385,
+      "y": 349,
+      "confidence": 0.4684482514858246
+    },
+    {
+      "frame": 434,
+      "time_sec": 14.466666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 435,
+      "time_sec": 14.5,
+      "detected": true,
+      "x": 381,
+      "y": 339,
+      "confidence": 0.26804816722869873
+    },
+    {
+      "frame": 436,
+      "time_sec": 14.533333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 437,
+      "time_sec": 14.566666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 438,
+      "time_sec": 14.6,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 439,
+      "time_sec": 14.633333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 440,
+      "time_sec": 14.666666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 441,
+      "time_sec": 14.7,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 442,
+      "time_sec": 14.733333333333333,
+      "detected": true,
+      "x": 375,
+      "y": 340,
+      "confidence": 0.3769172728061676
+    },
+    {
+      "frame": 443,
+      "time_sec": 14.766666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 444,
+      "time_sec": 14.8,
+      "detected": true,
+      "x": 378,
+      "y": 350,
+      "confidence": 0.433868408203125
+    },
+    {
+      "frame": 445,
+      "time_sec": 14.833333333333334,
+      "detected": true,
+      "x": 379,
+      "y": 356,
+      "confidence": 0.7961671352386475
+    },
+    {
+      "frame": 446,
+      "time_sec": 14.866666666666667,
+      "detected": true,
+      "x": 382,
+      "y": 360,
+      "confidence": 0.4878644049167633
+    },
+    {
+      "frame": 447,
+      "time_sec": 14.9,
+      "detected": true,
+      "x": 388,
+      "y": 374,
+      "confidence": 0.6498265266418457
+    },
+    {
+      "frame": 448,
+      "time_sec": 14.933333333333334,
+      "detected": true,
+      "x": 391,
+      "y": 382,
+      "confidence": 0.5671670436859131
+    },
+    {
+      "frame": 449,
+      "time_sec": 14.966666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 450,
+      "time_sec": 15.0,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 451,
+      "time_sec": 15.033333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 452,
+      "time_sec": 15.066666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 453,
+      "time_sec": 15.1,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 454,
+      "time_sec": 15.133333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 455,
+      "time_sec": 15.166666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 456,
+      "time_sec": 15.2,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 457,
+      "time_sec": 15.233333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 458,
+      "time_sec": 15.266666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 459,
+      "time_sec": 15.3,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 460,
+      "time_sec": 15.333333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 461,
+      "time_sec": 15.366666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 462,
+      "time_sec": 15.4,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 463,
+      "time_sec": 15.433333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 464,
+      "time_sec": 15.466666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 465,
+      "time_sec": 15.5,
+      "detected": true,
+      "x": 405,
+      "y": 424,
+      "confidence": 0.7942249774932861
+    },
+    {
+      "frame": 466,
+      "time_sec": 15.533333333333333,
+      "detected": true,
+      "x": 412,
+      "y": 424,
+      "confidence": 0.7370169758796692
+    },
+    {
+      "frame": 467,
+      "time_sec": 15.566666666666666,
+      "detected": true,
+      "x": 427,
+      "y": 427,
+      "confidence": 0.497102826833725
+    },
+    {
+      "frame": 468,
+      "time_sec": 15.6,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 469,
+      "time_sec": 15.633333333333333,
+      "detected": true,
+      "x": 440,
+      "y": 431,
+      "confidence": 0.3612378239631653
+    },
+    {
+      "frame": 470,
+      "time_sec": 15.666666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 471,
+      "time_sec": 15.7,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 472,
+      "time_sec": 15.733333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 473,
+      "time_sec": 15.766666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 474,
+      "time_sec": 15.8,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 475,
+      "time_sec": 15.833333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 476,
+      "time_sec": 15.866666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 477,
+      "time_sec": 15.9,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 478,
+      "time_sec": 15.933333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 479,
+      "time_sec": 15.966666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 480,
+      "time_sec": 16.0,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 481,
+      "time_sec": 16.033333333333335,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 482,
+      "time_sec": 16.066666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 483,
+      "time_sec": 16.1,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 484,
+      "time_sec": 16.133333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 485,
+      "time_sec": 16.166666666666668,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 486,
+      "time_sec": 16.2,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 487,
+      "time_sec": 16.233333333333334,
+      "detected": true,
+      "x": 282,
+      "y": 433,
+      "confidence": 0.4631522595882416
+    },
+    {
+      "frame": 488,
+      "time_sec": 16.266666666666666,
+      "detected": true,
+      "x": 269,
+      "y": 438,
+      "confidence": 0.6696605086326599
+    },
+    {
+      "frame": 489,
+      "time_sec": 16.3,
+      "detected": true,
+      "x": 259,
+      "y": 430,
+      "confidence": 0.3786690831184387
+    },
+    {
+      "frame": 490,
+      "time_sec": 16.333333333333332,
+      "detected": true,
+      "x": 259,
+      "y": 429,
+      "confidence": 0.2937735617160797
+    },
+    {
+      "frame": 491,
+      "time_sec": 16.366666666666667,
+      "detected": true,
+      "x": 249,
+      "y": 424,
+      "confidence": 0.6403830647468567
+    },
+    {
+      "frame": 492,
+      "time_sec": 16.4,
+      "detected": true,
+      "x": 239,
+      "y": 420,
+      "confidence": 0.5616083741188049
+    },
+    {
+      "frame": 493,
+      "time_sec": 16.433333333333334,
+      "detected": true,
+      "x": 234,
+      "y": 419,
+      "confidence": 0.5547312498092651
+    },
+    {
+      "frame": 494,
+      "time_sec": 16.466666666666665,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 495,
+      "time_sec": 16.5,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 496,
+      "time_sec": 16.533333333333335,
+      "detected": true,
+      "x": 213,
+      "y": 427,
+      "confidence": 0.40976983308792114
+    },
+    {
+      "frame": 497,
+      "time_sec": 16.566666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 498,
+      "time_sec": 16.6,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 499,
+      "time_sec": 16.633333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 500,
+      "time_sec": 16.666666666666668,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 501,
+      "time_sec": 16.7,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 502,
+      "time_sec": 16.733333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 503,
+      "time_sec": 16.766666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 504,
+      "time_sec": 16.8,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 505,
+      "time_sec": 16.833333333333332,
+      "detected": true,
+      "x": 159,
+      "y": 418,
+      "confidence": 0.3308506906032562
+    },
+    {
+      "frame": 506,
+      "time_sec": 16.866666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 507,
+      "time_sec": 16.9,
+      "detected": true,
+      "x": 147,
+      "y": 414,
+      "confidence": 0.4380747675895691
+    },
+    {
+      "frame": 508,
+      "time_sec": 16.933333333333334,
+      "detected": true,
+      "x": 143,
+      "y": 414,
+      "confidence": 0.45147618651390076
+    },
+    {
+      "frame": 509,
+      "time_sec": 16.966666666666665,
+      "detected": true,
+      "x": 135,
+      "y": 414,
+      "confidence": 0.5560501217842102
+    },
+    {
+      "frame": 510,
+      "time_sec": 17.0,
+      "detected": true,
+      "x": 131,
+      "y": 414,
+      "confidence": 0.3704931437969208
+    },
+    {
+      "frame": 511,
+      "time_sec": 17.033333333333335,
+      "detected": true,
+      "x": 129,
+      "y": 413,
+      "confidence": 0.409603476524353
+    },
+    {
+      "frame": 512,
+      "time_sec": 17.066666666666666,
+      "detected": true,
+      "x": 121,
+      "y": 413,
+      "confidence": 0.5489234924316406
+    },
+    {
+      "frame": 513,
+      "time_sec": 17.1,
+      "detected": true,
+      "x": 114,
+      "y": 411,
+      "confidence": 0.6334030628204346
+    },
+    {
+      "frame": 514,
+      "time_sec": 17.133333333333333,
+      "detected": true,
+      "x": 114,
+      "y": 410,
+      "confidence": 0.6523395776748657
+    },
+    {
+      "frame": 515,
+      "time_sec": 17.166666666666668,
+      "detected": true,
+      "x": 107,
+      "y": 409,
+      "confidence": 0.6037861108779907
+    },
+    {
+      "frame": 516,
+      "time_sec": 17.2,
+      "detected": true,
+      "x": 100,
+      "y": 407,
+      "confidence": 0.6530420184135437
+    },
+    {
+      "frame": 517,
+      "time_sec": 17.233333333333334,
+      "detected": true,
+      "x": 96,
+      "y": 406,
+      "confidence": 0.5236856937408447
+    },
+    {
+      "frame": 518,
+      "time_sec": 17.266666666666666,
+      "detected": true,
+      "x": 92,
+      "y": 406,
+      "confidence": 0.5956742167472839
+    },
+    {
+      "frame": 519,
+      "time_sec": 17.3,
+      "detected": true,
+      "x": 87,
+      "y": 403,
+      "confidence": 0.31582844257354736
+    },
+    {
+      "frame": 520,
+      "time_sec": 17.333333333333332,
+      "detected": true,
+      "x": 83,
+      "y": 402,
+      "confidence": 0.4394432604312897
+    },
+    {
+      "frame": 521,
+      "time_sec": 17.366666666666667,
+      "detected": true,
+      "x": 76,
+      "y": 399,
+      "confidence": 0.5978766679763794
+    },
+    {
+      "frame": 522,
+      "time_sec": 17.4,
+      "detected": true,
+      "x": 73,
+      "y": 398,
+      "confidence": 0.7767751216888428
+    },
+    {
+      "frame": 523,
+      "time_sec": 17.433333333333334,
+      "detected": true,
+      "x": 70,
+      "y": 397,
+      "confidence": 0.599438488483429
+    },
+    {
+      "frame": 524,
+      "time_sec": 17.466666666666665,
+      "detected": true,
+      "x": 63,
+      "y": 394,
+      "confidence": 0.7481582164764404
+    },
+    {
+      "frame": 525,
+      "time_sec": 17.5,
+      "detected": true,
+      "x": 56,
+      "y": 392,
+      "confidence": 0.683199405670166
+    },
+    {
+      "frame": 526,
+      "time_sec": 17.533333333333335,
+      "detected": true,
+      "x": 53,
+      "y": 390,
+      "confidence": 0.5428938269615173
+    },
+    {
+      "frame": 527,
+      "time_sec": 17.566666666666666,
+      "detected": true,
+      "x": 50,
+      "y": 389,
+      "confidence": 0.2524435818195343
+    },
+    {
+      "frame": 528,
+      "time_sec": 17.6,
+      "detected": true,
+      "x": 43,
+      "y": 385,
+      "confidence": 0.49649035930633545
+    },
+    {
+      "frame": 529,
+      "time_sec": 17.633333333333333,
+      "detected": true,
+      "x": 41,
+      "y": 384,
+      "confidence": 0.47049394249916077
+    },
+    {
+      "frame": 530,
+      "time_sec": 17.666666666666668,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 531,
+      "time_sec": 17.7,
+      "detected": true,
+      "x": 33,
+      "y": 377,
+      "confidence": 0.6118611693382263
+    },
+    {
+      "frame": 532,
+      "time_sec": 17.733333333333334,
+      "detected": true,
+      "x": 31,
+      "y": 375,
+      "confidence": 0.6340445876121521
+    },
+    {
+      "frame": 533,
+      "time_sec": 17.766666666666666,
+      "detected": true,
+      "x": 27,
+      "y": 370,
+      "confidence": 0.5162022709846497
+    },
+    {
+      "frame": 534,
+      "time_sec": 17.8,
+      "detected": true,
+      "x": 24,
+      "y": 365,
+      "confidence": 0.6923839449882507
+    },
+    {
+      "frame": 535,
+      "time_sec": 17.833333333333332,
+      "detected": true,
+      "x": 24,
+      "y": 365,
+      "confidence": 0.6356582641601562
+    },
+    {
+      "frame": 536,
+      "time_sec": 17.866666666666667,
+      "detected": true,
+      "x": 19,
+      "y": 358,
+      "confidence": 0.6868529319763184
+    },
+    {
+      "frame": 537,
+      "time_sec": 17.9,
+      "detected": true,
+      "x": 17,
+      "y": 351,
+      "confidence": 0.769904613494873
+    },
+    {
+      "frame": 538,
+      "time_sec": 17.933333333333334,
+      "detected": true,
+      "x": 16,
+      "y": 346,
+      "confidence": 0.8185228705406189
+    },
+    {
+      "frame": 539,
+      "time_sec": 17.966666666666665,
+      "detected": true,
+      "x": 14,
+      "y": 337,
+      "confidence": 0.7927616834640503
+    },
+    {
+      "frame": 540,
+      "time_sec": 18.0,
+      "detected": true,
+      "x": 13,
+      "y": 333,
+      "confidence": 0.5338254570960999
+    },
+    {
+      "frame": 541,
+      "time_sec": 18.033333333333335,
+      "detected": true,
+      "x": 13,
+      "y": 328,
+      "confidence": 0.7093671560287476
+    },
+    {
+      "frame": 542,
+      "time_sec": 18.066666666666666,
+      "detected": true,
+      "x": 12,
+      "y": 317,
+      "confidence": 0.45229077339172363
+    },
+    {
+      "frame": 543,
+      "time_sec": 18.1,
+      "detected": true,
+      "x": 11,
+      "y": 305,
+      "confidence": 0.572757363319397
+    },
+    {
+      "frame": 544,
+      "time_sec": 18.133333333333333,
+      "detected": true,
+      "x": 11,
+      "y": 306,
+      "confidence": 0.6627790927886963
+    },
+    {
+      "frame": 545,
+      "time_sec": 18.166666666666668,
+      "detected": true,
+      "x": 11,
+      "y": 293,
+      "confidence": 0.39509648084640503
+    },
+    {
+      "frame": 546,
+      "time_sec": 18.2,
+      "detected": true,
+      "x": 12,
+      "y": 281,
+      "confidence": 0.6666194200515747
+    },
+    {
+      "frame": 547,
+      "time_sec": 18.233333333333334,
+      "detected": true,
+      "x": 12,
+      "y": 274,
+      "confidence": 0.7752683162689209
+    },
+    {
+      "frame": 548,
+      "time_sec": 18.266666666666666,
+      "detected": true,
+      "x": 13,
+      "y": 262,
+      "confidence": 0.5324498414993286
+    },
+    {
+      "frame": 549,
+      "time_sec": 18.3,
+      "detected": true,
+      "x": 13,
+      "y": 256,
+      "confidence": 0.6974087953567505
+    },
+    {
+      "frame": 550,
+      "time_sec": 18.333333333333332,
+      "detected": true,
+      "x": 15,
+      "y": 250,
+      "confidence": 0.8578331470489502
+    },
+    {
+      "frame": 551,
+      "time_sec": 18.366666666666667,
+      "detected": true,
+      "x": 17,
+      "y": 239,
+      "confidence": 0.7706710696220398
+    },
+    {
+      "frame": 552,
+      "time_sec": 18.4,
+      "detected": true,
+      "x": 21,
+      "y": 229,
+      "confidence": 0.7914109826087952
+    },
+    {
+      "frame": 553,
+      "time_sec": 18.433333333333334,
+      "detected": true,
+      "x": 21,
+      "y": 229,
+      "confidence": 0.8151992559432983
+    },
+    {
+      "frame": 554,
+      "time_sec": 18.466666666666665,
+      "detected": true,
+      "x": 25,
+      "y": 220,
+      "confidence": 0.6440601944923401
+    },
+    {
+      "frame": 555,
+      "time_sec": 18.5,
+      "detected": true,
+      "x": 29,
+      "y": 211,
+      "confidence": 0.8238369822502136
+    },
+    {
+      "frame": 556,
+      "time_sec": 18.533333333333335,
+      "detected": true,
+      "x": 31,
+      "y": 208,
+      "confidence": 0.6086899042129517
+    },
+    {
+      "frame": 557,
+      "time_sec": 18.566666666666666,
+      "detected": true,
+      "x": 36,
+      "y": 200,
+      "confidence": 0.66754549741745
+    },
+    {
+      "frame": 558,
+      "time_sec": 18.6,
+      "detected": true,
+      "x": 39,
+      "y": 196,
+      "confidence": 0.7233777046203613
+    },
+    {
+      "frame": 559,
+      "time_sec": 18.633333333333333,
+      "detected": true,
+      "x": 41,
+      "y": 193,
+      "confidence": 0.6017987728118896
+    },
+    {
+      "frame": 560,
+      "time_sec": 18.666666666666668,
+      "detected": true,
+      "x": 47,
+      "y": 188,
+      "confidence": 0.8118167519569397
+    },
+    {
+      "frame": 561,
+      "time_sec": 18.7,
+      "detected": true,
+      "x": 53,
+      "y": 184,
+      "confidence": 0.583864688873291
+    },
+    {
+      "frame": 562,
+      "time_sec": 18.733333333333334,
+      "detected": true,
+      "x": 53,
+      "y": 184,
+      "confidence": 0.7635257840156555
+    },
+    {
+      "frame": 563,
+      "time_sec": 18.766666666666666,
+      "detected": true,
+      "x": 59,
+      "y": 181,
+      "confidence": 0.7744863033294678
+    },
+    {
+      "frame": 564,
+      "time_sec": 18.8,
+      "detected": true,
+      "x": 65,
+      "y": 178,
+      "confidence": 0.5729957818984985
+    },
+    {
+      "frame": 565,
+      "time_sec": 18.833333333333332,
+      "detected": true,
+      "x": 68,
+      "y": 177,
+      "confidence": 0.6194183230400085
+    },
+    {
+      "frame": 566,
+      "time_sec": 18.866666666666667,
+      "detected": true,
+      "x": 74,
+      "y": 175,
+      "confidence": 0.5523242354393005
+    },
+    {
+      "frame": 567,
+      "time_sec": 18.9,
+      "detected": true,
+      "x": 77,
+      "y": 174,
+      "confidence": 0.7686213254928589
+    },
+    {
+      "frame": 568,
+      "time_sec": 18.933333333333334,
+      "detected": true,
+      "x": 81,
+      "y": 174,
+      "confidence": 0.5319750905036926
+    },
+    {
+      "frame": 569,
+      "time_sec": 18.966666666666665,
+      "detected": true,
+      "x": 87,
+      "y": 174,
+      "confidence": 0.5541398525238037
+    },
+    {
+      "frame": 570,
+      "time_sec": 19.0,
+      "detected": true,
+      "x": 92,
+      "y": 174,
+      "confidence": 0.7307335734367371
+    },
+    {
+      "frame": 571,
+      "time_sec": 19.033333333333335,
+      "detected": true,
+      "x": 92,
+      "y": 175,
+      "confidence": 0.6858557462692261
+    },
+    {
+      "frame": 572,
+      "time_sec": 19.066666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 573,
+      "time_sec": 19.1,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 574,
+      "time_sec": 19.133333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 575,
+      "time_sec": 19.166666666666668,
+      "detected": true,
+      "x": 176,
+      "y": 518,
+      "confidence": 0.5143634676933289
+    },
+    {
+      "frame": 576,
+      "time_sec": 19.2,
+      "detected": true,
+      "x": 176,
+      "y": 518,
+      "confidence": 0.5701918005943298
+    },
+    {
+      "frame": 577,
+      "time_sec": 19.233333333333334,
+      "detected": true,
+      "x": 176,
+      "y": 518,
+      "confidence": 0.3920631408691406
+    },
+    {
+      "frame": 578,
+      "time_sec": 19.266666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 579,
+      "time_sec": 19.3,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 580,
+      "time_sec": 19.333333333333332,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 581,
+      "time_sec": 19.366666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 582,
+      "time_sec": 19.4,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 583,
+      "time_sec": 19.433333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 584,
+      "time_sec": 19.466666666666665,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 585,
+      "time_sec": 19.5,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 586,
+      "time_sec": 19.533333333333335,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 587,
+      "time_sec": 19.566666666666666,
+      "detected": true,
+      "x": 3,
+      "y": 253,
+      "confidence": 0.36786311864852905
+    },
+    {
+      "frame": 588,
+      "time_sec": 19.6,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 589,
+      "time_sec": 19.633333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 590,
+      "time_sec": 19.666666666666668,
+      "detected": true,
+      "x": 2,
+      "y": 338,
+      "confidence": 0.7312917113304138
+    },
+    {
+      "frame": 591,
+      "time_sec": 19.7,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 592,
+      "time_sec": 19.733333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 593,
+      "time_sec": 19.766666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 594,
+      "time_sec": 19.8,
+      "detected": true,
+      "x": 16,
+      "y": 260,
+      "confidence": 0.27798187732696533
+    },
+    {
+      "frame": 595,
+      "time_sec": 19.833333333333332,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 596,
+      "time_sec": 19.866666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 597,
+      "time_sec": 19.9,
+      "detected": true,
+      "x": 170,
+      "y": 181,
+      "confidence": 0.6930071115493774
+    },
+    {
+      "frame": 598,
+      "time_sec": 19.933333333333334,
+      "detected": true,
+      "x": 179,
+      "y": 180,
+      "confidence": 0.8615214824676514
+    },
+    {
+      "frame": 599,
+      "time_sec": 19.966666666666665,
+      "detected": true,
+      "x": 188,
+      "y": 180,
+      "confidence": 0.3918170928955078
+    },
+    {
+      "frame": 600,
+      "time_sec": 20.0,
+      "detected": true,
+      "x": 196,
+      "y": 180,
+      "confidence": 0.36120232939720154
+    },
+    {
+      "frame": 601,
+      "time_sec": 20.033333333333335,
+      "detected": true,
+      "x": 204,
+      "y": 182,
+      "confidence": 0.3423025906085968
+    },
+    {
+      "frame": 602,
+      "time_sec": 20.066666666666666,
+      "detected": true,
+      "x": 214,
+      "y": 182,
+      "confidence": 0.2851806879043579
+    },
+    {
+      "frame": 603,
+      "time_sec": 20.1,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 604,
+      "time_sec": 20.133333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 605,
+      "time_sec": 20.166666666666668,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 606,
+      "time_sec": 20.2,
+      "detected": true,
+      "x": 93,
+      "y": 186,
+      "confidence": 0.31734606623649597
+    },
+    {
+      "frame": 607,
+      "time_sec": 20.233333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 608,
+      "time_sec": 20.266666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 609,
+      "time_sec": 20.3,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 610,
+      "time_sec": 20.333333333333332,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 611,
+      "time_sec": 20.366666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 612,
+      "time_sec": 20.4,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 613,
+      "time_sec": 20.433333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 614,
+      "time_sec": 20.466666666666665,
+      "detected": true,
+      "x": 285,
+      "y": 155,
+      "confidence": 0.3399393856525421
+    },
+    {
+      "frame": 615,
+      "time_sec": 20.5,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 616,
+      "time_sec": 20.533333333333335,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 617,
+      "time_sec": 20.566666666666666,
+      "detected": true,
+      "x": 295,
+      "y": 148,
+      "confidence": 0.3610035479068756
+    },
+    {
+      "frame": 618,
+      "time_sec": 20.6,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 619,
+      "time_sec": 20.633333333333333,
+      "detected": true,
+      "x": 297,
+      "y": 147,
+      "confidence": 0.2534727156162262
+    },
+    {
+      "frame": 620,
+      "time_sec": 20.666666666666668,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 621,
+      "time_sec": 20.7,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 622,
+      "time_sec": 20.733333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 623,
+      "time_sec": 20.766666666666666,
+      "detected": true,
+      "x": 309,
+      "y": 142,
+      "confidence": 0.2863309383392334
+    },
+    {
+      "frame": 624,
+      "time_sec": 20.8,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 625,
+      "time_sec": 20.833333333333332,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 626,
+      "time_sec": 20.866666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 627,
+      "time_sec": 20.9,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 628,
+      "time_sec": 20.933333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 629,
+      "time_sec": 20.966666666666665,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 630,
+      "time_sec": 21.0,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 631,
+      "time_sec": 21.033333333333335,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 632,
+      "time_sec": 21.066666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 633,
+      "time_sec": 21.1,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 634,
+      "time_sec": 21.133333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 635,
+      "time_sec": 21.166666666666668,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 636,
+      "time_sec": 21.2,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 637,
+      "time_sec": 21.233333333333334,
+      "detected": true,
+      "x": 356,
+      "y": 167,
+      "confidence": 0.26376670598983765
+    },
+    {
+      "frame": 638,
+      "time_sec": 21.266666666666666,
+      "detected": true,
+      "x": 359,
+      "y": 172,
+      "confidence": 0.2750050127506256
+    },
+    {
+      "frame": 639,
+      "time_sec": 21.3,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 640,
+      "time_sec": 21.333333333333332,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 641,
+      "time_sec": 21.366666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 642,
+      "time_sec": 21.4,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 643,
+      "time_sec": 21.433333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 644,
+      "time_sec": 21.466666666666665,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 645,
+      "time_sec": 21.5,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 646,
+      "time_sec": 21.533333333333335,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 647,
+      "time_sec": 21.566666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 648,
+      "time_sec": 21.6,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 649,
+      "time_sec": 21.633333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 650,
+      "time_sec": 21.666666666666668,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 651,
+      "time_sec": 21.7,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 652,
+      "time_sec": 21.733333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 653,
+      "time_sec": 21.766666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 654,
+      "time_sec": 21.8,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 655,
+      "time_sec": 21.833333333333332,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 656,
+      "time_sec": 21.866666666666667,
+      "detected": true,
+      "x": 403,
+      "y": 227,
+      "confidence": 0.5797479748725891
+    },
+    {
+      "frame": 657,
+      "time_sec": 21.9,
+      "detected": true,
+      "x": 404,
+      "y": 228,
+      "confidence": 0.4136410057544708
+    },
+    {
+      "frame": 658,
+      "time_sec": 21.933333333333334,
+      "detected": true,
+      "x": 405,
+      "y": 230,
+      "confidence": 0.29358798265457153
+    },
+    {
+      "frame": 659,
+      "time_sec": 21.966666666666665,
+      "detected": true,
+      "x": 406,
+      "y": 235,
+      "confidence": 0.41730502247810364
+    },
+    {
+      "frame": 660,
+      "time_sec": 22.0,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 661,
+      "time_sec": 22.033333333333335,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 662,
+      "time_sec": 22.066666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 663,
+      "time_sec": 22.1,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 664,
+      "time_sec": 22.133333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 665,
+      "time_sec": 22.166666666666668,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 666,
+      "time_sec": 22.2,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 667,
+      "time_sec": 22.233333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 668,
+      "time_sec": 22.266666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 669,
+      "time_sec": 22.3,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 670,
+      "time_sec": 22.333333333333332,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 671,
+      "time_sec": 22.366666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 672,
+      "time_sec": 22.4,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 673,
+      "time_sec": 22.433333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 674,
+      "time_sec": 22.466666666666665,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 675,
+      "time_sec": 22.5,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 676,
+      "time_sec": 22.533333333333335,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 677,
+      "time_sec": 22.566666666666666,
+      "detected": true,
+      "x": 234,
+      "y": 221,
+      "confidence": 0.34289848804473877
+    },
+    {
+      "frame": 678,
+      "time_sec": 22.6,
+      "detected": true,
+      "x": 422,
+      "y": 237,
+      "confidence": 0.40217289328575134
+    },
+    {
+      "frame": 679,
+      "time_sec": 22.633333333333333,
+      "detected": true,
+      "x": 423,
+      "y": 237,
+      "confidence": 0.35888978838920593
+    },
+    {
+      "frame": 680,
+      "time_sec": 22.666666666666668,
+      "detected": true,
+      "x": 234,
+      "y": 221,
+      "confidence": 0.32722482085227966
+    },
+    {
+      "frame": 681,
+      "time_sec": 22.7,
+      "detected": true,
+      "x": 235,
+      "y": 221,
+      "confidence": 0.42407697439193726
+    },
+    {
+      "frame": 682,
+      "time_sec": 22.733333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 683,
+      "time_sec": 22.766666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 684,
+      "time_sec": 22.8,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 685,
+      "time_sec": 22.833333333333332,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 686,
+      "time_sec": 22.866666666666667,
+      "detected": true,
+      "x": 180,
+      "y": 270,
+      "confidence": 0.41920921206474304
+    },
+    {
+      "frame": 687,
+      "time_sec": 22.9,
+      "detected": true,
+      "x": 195,
+      "y": 260,
+      "confidence": 0.40238818526268005
+    },
+    {
+      "frame": 688,
+      "time_sec": 22.933333333333334,
+      "detected": true,
+      "x": 194,
+      "y": 259,
+      "confidence": 0.3564980924129486
+    },
+    {
+      "frame": 689,
+      "time_sec": 22.966666666666665,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 690,
+      "time_sec": 23.0,
+      "detected": true,
+      "x": 236,
+      "y": 220,
+      "confidence": 0.7436208128929138
+    },
+    {
+      "frame": 691,
+      "time_sec": 23.033333333333335,
+      "detected": true,
+      "x": 235,
+      "y": 221,
+      "confidence": 0.6258174180984497
+    },
+    {
+      "frame": 692,
+      "time_sec": 23.066666666666666,
+      "detected": true,
+      "x": 236,
+      "y": 221,
+      "confidence": 0.5187488198280334
+    },
+    {
+      "frame": 693,
+      "time_sec": 23.1,
+      "detected": true,
+      "x": 236,
+      "y": 221,
+      "confidence": 0.29060956835746765
+    },
+    {
+      "frame": 694,
+      "time_sec": 23.133333333333333,
+      "detected": true,
+      "x": 236,
+      "y": 220,
+      "confidence": 0.34279417991638184
+    },
+    {
+      "frame": 695,
+      "time_sec": 23.166666666666668,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 696,
+      "time_sec": 23.2,
+      "detected": true,
+      "x": 423,
+      "y": 236,
+      "confidence": 0.46756884455680847
+    },
+    {
+      "frame": 697,
+      "time_sec": 23.233333333333334,
+      "detected": true,
+      "x": 423,
+      "y": 236,
+      "confidence": 0.48160073161125183
+    },
+    {
+      "frame": 698,
+      "time_sec": 23.266666666666666,
+      "detected": true,
+      "x": 423,
+      "y": 237,
+      "confidence": 0.6959171891212463
+    },
+    {
+      "frame": 699,
+      "time_sec": 23.3,
+      "detected": true,
+      "x": 423,
+      "y": 237,
+      "confidence": 0.6156717538833618
+    },
+    {
+      "frame": 700,
+      "time_sec": 23.333333333333332,
+      "detected": true,
+      "x": 235,
+      "y": 220,
+      "confidence": 0.7274231314659119
+    },
+    {
+      "frame": 701,
+      "time_sec": 23.366666666666667,
+      "detected": true,
+      "x": 235,
+      "y": 220,
+      "confidence": 0.5410540699958801
+    },
+    {
+      "frame": 702,
+      "time_sec": 23.4,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 703,
+      "time_sec": 23.433333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 704,
+      "time_sec": 23.466666666666665,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 705,
+      "time_sec": 23.5,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 706,
+      "time_sec": 23.533333333333335,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 707,
+      "time_sec": 23.566666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 708,
+      "time_sec": 23.6,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 709,
+      "time_sec": 23.633333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 710,
+      "time_sec": 23.666666666666668,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 711,
+      "time_sec": 23.7,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 712,
+      "time_sec": 23.733333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 713,
+      "time_sec": 23.766666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 714,
+      "time_sec": 23.8,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 715,
+      "time_sec": 23.833333333333332,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 716,
+      "time_sec": 23.866666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 717,
+      "time_sec": 23.9,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 718,
+      "time_sec": 23.933333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 719,
+      "time_sec": 23.966666666666665,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 720,
+      "time_sec": 24.0,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 721,
+      "time_sec": 24.033333333333335,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 722,
+      "time_sec": 24.066666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 723,
+      "time_sec": 24.1,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 724,
+      "time_sec": 24.133333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 725,
+      "time_sec": 24.166666666666668,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 726,
+      "time_sec": 24.2,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 727,
+      "time_sec": 24.233333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 728,
+      "time_sec": 24.266666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 729,
+      "time_sec": 24.3,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 730,
+      "time_sec": 24.333333333333332,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 731,
+      "time_sec": 24.366666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 732,
+      "time_sec": 24.4,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 733,
+      "time_sec": 24.433333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 734,
+      "time_sec": 24.466666666666665,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 735,
+      "time_sec": 24.5,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 736,
+      "time_sec": 24.533333333333335,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 737,
+      "time_sec": 24.566666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 738,
+      "time_sec": 24.6,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 739,
+      "time_sec": 24.633333333333333,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 740,
+      "time_sec": 24.666666666666668,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 741,
+      "time_sec": 24.7,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 742,
+      "time_sec": 24.733333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 743,
+      "time_sec": 24.766666666666666,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 744,
+      "time_sec": 24.8,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 745,
+      "time_sec": 24.833333333333332,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 746,
+      "time_sec": 24.866666666666667,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 747,
+      "time_sec": 24.9,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 748,
+      "time_sec": 24.933333333333334,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    },
+    {
+      "frame": 749,
+      "time_sec": 24.966666666666665,
+      "detected": false,
+      "x": null,
+      "y": null,
+      "confidence": 0.0
+    }
+  ]
+}

@@ -1,0 +1,667 @@
+[
+  {
+    "frame_idx": 0,
+    "timestamp": 0.0,
+    "scene": {
+      "ball": null,
+      "batsman": null,
+      "bowler": null,
+      "wicketkeeper": null,
+      "nonstriker": null,
+      "umpires": [],
+      "stumps": null
+    },
+    "geometry": null
+  },
+  {
+    "frame_idx": 3,
+    "timestamp": 0.12,
+    "scene": {
+      "ball": null,
+      "batsman": null,
+      "bowler": null,
+      "wicketkeeper": null,
+      "nonstriker": null,
+      "umpires": [],
+      "stumps": {
+        "class_name": "stumps",
+        "class_id": 1,
+        "confidence": 0.557,
+        "bbox": [
+          154.0,
+          48.0,
+          196.0,
+          148.0
+        ],
+        "center": [
+          175.0,
+          98.0
+        ],
+        "detection_id": "b1738d15-ec04-4a1c-8660-9415774e1608"
+      }
+    },
+    "geometry": null
+  },
+  {
+    "frame_idx": 6,
+    "timestamp": 0.24,
+    "scene": {
+      "ball": null,
+      "batsman": null,
+      "bowler": null,
+      "wicketkeeper": null,
+      "nonstriker": null,
+      "umpires": [],
+      "stumps": {
+        "class_name": "stumps",
+        "class_id": 1,
+        "confidence": 0.595,
+        "bbox": [
+          154.0,
+          84.0,
+          165.0,
+          138.0
+        ],
+        "center": [
+          159.5,
+          111.0
+        ],
+        "detection_id": "3242187a-c1c0-4868-8cd5-d6379198d753"
+      }
+    },
+    "geometry": null
+  },
+  {
+    "frame_idx": 9,
+    "timestamp": 0.36,
+    "scene": {
+      "ball": null,
+      "batsman": {
+        "class_name": "batsman",
+        "class_id": 2,
+        "confidence": 0.63,
+        "bbox": [
+          138.0,
+          36.0,
+          205.0,
+          157.0
+        ],
+        "center": [
+          171.5,
+          96.5
+        ],
+        "detection_id": "b905be99-cb49-4fb2-8558-38fc073e78b2"
+      },
+      "bowler": null,
+      "wicketkeeper": null,
+      "nonstriker": null,
+      "umpires": [],
+      "stumps": null
+    },
+    "geometry": null
+  },
+  {
+    "frame_idx": 12,
+    "timestamp": 0.48,
+    "scene": {
+      "ball": null,
+      "batsman": {
+        "class_name": "batsman",
+        "class_id": 2,
+        "confidence": 0.467,
+        "bbox": [
+          149.0,
+          31.0,
+          204.0,
+          163.0
+        ],
+        "center": [
+          176.5,
+          97.0
+        ],
+        "detection_id": "5232b8c9-3001-4d42-9a90-fab699dc6e19"
+      },
+      "bowler": null,
+      "wicketkeeper": null,
+      "nonstriker": null,
+      "umpires": [],
+      "stumps": null
+    },
+    "geometry": null
+  },
+  {
+    "frame_idx": 15,
+    "timestamp": 0.6,
+    "scene": {
+      "ball": null,
+      "batsman": null,
+      "bowler": null,
+      "wicketkeeper": null,
+      "nonstriker": null,
+      "umpires": [],
+      "stumps": null
+    },
+    "geometry": null
+  },
+  {
+    "frame_idx": 18,
+    "timestamp": 0.72,
+    "scene": {
+      "ball": null,
+      "batsman": {
+        "class_name": "batsman",
+        "class_id": 2,
+        "confidence": 0.606,
+        "bbox": [
+          32.0,
+          324.0,
+          97.0,
+          483.0
+        ],
+        "center": [
+          64.5,
+          403.5
+        ],
+        "detection_id": "e7a8c366-b0b7-4eb5-b5df-841f2d5e8cfc"
+      },
+      "bowler": null,
+      "wicketkeeper": null,
+      "nonstriker": null,
+      "umpires": [],
+      "stumps": null
+    },
+    "geometry": null
+  },
+  {
+    "frame_idx": 21,
+    "timestamp": 0.84,
+    "scene": {
+      "ball": null,
+      "batsman": null,
+      "bowler": null,
+      "wicketkeeper": null,
+      "nonstriker": null,
+      "umpires": [],
+      "stumps": null
+    },
+    "geometry": null
+  },
+  {
+    "frame_idx": 24,
+    "timestamp": 0.96,
+    "scene": {
+      "ball": null,
+      "batsman": {
+        "class_name": "batsman",
+        "class_id": 2,
+        "confidence": 0.411,
+        "bbox": [
+          141.0,
+          31.0,
+          203.0,
+          180.0
+        ],
+        "center": [
+          172.0,
+          105.5
+        ],
+        "detection_id": "6f88b5c9-1e22-4299-a382-e3f048c98642"
+      },
+      "bowler": null,
+      "wicketkeeper": null,
+      "nonstriker": null,
+      "umpires": [],
+      "stumps": null
+    },
+    "geometry": null
+  },
+  {
+    "frame_idx": 27,
+    "timestamp": 1.08,
+    "scene": {
+      "ball": null,
+      "batsman": {
+        "class_name": "batsman",
+        "class_id": 2,
+        "confidence": 0.804,
+        "bbox": [
+          142.0,
+          34.0,
+          205.0,
+          182.0
+        ],
+        "center": [
+          173.5,
+          108.0
+        ],
+        "detection_id": "1ff5f120-267f-4abc-8407-39159c8e49ad"
+      },
+      "bowler": null,
+      "wicketkeeper": {
+        "class_name": "wicketkeeper",
+        "class_id": 6,
+        "confidence": 0.503,
+        "bbox": [
+          141.0,
+          35.0,
+          164.0,
+          159.0
+        ],
+        "center": [
+          152.5,
+          97.0
+        ],
+        "detection_id": "13736039-94e2-4242-a9e6-09fe6f8dded4"
+      },
+      "nonstriker": null,
+      "umpires": [],
+      "stumps": null
+    },
+    "geometry": null
+  },
+  {
+    "frame_idx": 30,
+    "timestamp": 1.2,
+    "scene": {
+      "ball": null,
+      "batsman": {
+        "class_name": "batsman",
+        "class_id": 2,
+        "confidence": 0.799,
+        "bbox": [
+          141.0,
+          36.0,
+          205.0,
+          184.0
+        ],
+        "center": [
+          173.0,
+          110.0
+        ],
+        "detection_id": "002d9dc4-f8bc-4412-a31f-71d55ad90a6c"
+      },
+      "bowler": null,
+      "wicketkeeper": null,
+      "nonstriker": null,
+      "umpires": [],
+      "stumps": null
+    },
+    "geometry": null
+  },
+  {
+    "frame_idx": 33,
+    "timestamp": 1.32,
+    "scene": {
+      "ball": null,
+      "batsman": {
+        "class_name": "batsman",
+        "class_id": 2,
+        "confidence": 0.556,
+        "bbox": [
+          134.0,
+          39.0,
+          205.0,
+          187.0
+        ],
+        "center": [
+          169.5,
+          113.0
+        ],
+        "detection_id": "71629dc9-1ff6-440d-8325-1b9e1726bc2a"
+      },
+      "bowler": null,
+      "wicketkeeper": null,
+      "nonstriker": null,
+      "umpires": [],
+      "stumps": null
+    },
+    "geometry": null
+  },
+  {
+    "frame_idx": 36,
+    "timestamp": 1.44,
+    "scene": {
+      "ball": null,
+      "batsman": null,
+      "bowler": null,
+      "wicketkeeper": null,
+      "nonstriker": null,
+      "umpires": [],
+      "stumps": null
+    },
+    "geometry": null
+  },
+  {
+    "frame_idx": 39,
+    "timestamp": 1.56,
+    "scene": {
+      "ball": null,
+      "batsman": {
+        "class_name": "batsman",
+        "class_id": 2,
+        "confidence": 0.466,
+        "bbox": [
+          131.0,
+          42.0,
+          203.0,
+          190.0
+        ],
+        "center": [
+          167.0,
+          116.0
+        ],
+        "detection_id": "2acaf106-fcf6-4a9a-ada9-56e7522a9b81"
+      },
+      "bowler": null,
+      "wicketkeeper": null,
+      "nonstriker": null,
+      "umpires": [],
+      "stumps": null
+    },
+    "geometry": null
+  },
+  {
+    "frame_idx": 42,
+    "timestamp": 1.68,
+    "scene": {
+      "ball": null,
+      "batsman": null,
+      "bowler": null,
+      "wicketkeeper": null,
+      "nonstriker": null,
+      "umpires": [],
+      "stumps": null
+    },
+    "geometry": null
+  },
+  {
+    "frame_idx": 45,
+    "timestamp": 1.8,
+    "scene": {
+      "ball": null,
+      "batsman": {
+        "class_name": "batsman",
+        "class_id": 2,
+        "confidence": 0.423,
+        "bbox": [
+          124.0,
+          386.0,
+          167.0,
+          483.0
+        ],
+        "center": [
+          145.5,
+          434.5
+        ],
+        "detection_id": "71363b77-417d-4d2a-8ca3-97f57b9fbe50"
+      },
+      "bowler": null,
+      "wicketkeeper": null,
+      "nonstriker": null,
+      "umpires": [],
+      "stumps": {
+        "class_name": "stumps",
+        "class_id": 1,
+        "confidence": 0.74,
+        "bbox": [
+          136.0,
+          112.0,
+          149.0,
+          178.0
+        ],
+        "center": [
+          142.5,
+          145.0
+        ],
+        "detection_id": "cd737e3a-3e16-4ed3-98d3-4f0fe6c4a9f5"
+      }
+    },
+    "geometry": null
+  },
+  {
+    "frame_idx": 48,
+    "timestamp": 1.92,
+    "scene": {
+      "ball": null,
+      "batsman": null,
+      "bowler": null,
+      "wicketkeeper": null,
+      "nonstriker": null,
+      "umpires": [],
+      "stumps": {
+        "class_name": "stumps",
+        "class_id": 1,
+        "confidence": 0.74,
+        "bbox": [
+          132.0,
+          120.0,
+          152.0,
+          199.0
+        ],
+        "center": [
+          142.0,
+          159.5
+        ],
+        "detection_id": "86317089-cc96-42d5-b9c1-dd4cbb5821c3"
+      }
+    },
+    "geometry": null
+  },
+  {
+    "frame_idx": 51,
+    "timestamp": 2.04,
+    "scene": {
+      "ball": null,
+      "batsman": null,
+      "bowler": null,
+      "wicketkeeper": null,
+      "nonstriker": null,
+      "umpires": [],
+      "stumps": null
+    },
+    "geometry": null
+  },
+  {
+    "frame_idx": 54,
+    "timestamp": 2.16,
+    "scene": {
+      "ball": null,
+      "batsman": null,
+      "bowler": null,
+      "wicketkeeper": null,
+      "nonstriker": null,
+      "umpires": [],
+      "stumps": {
+        "class_name": "stumps",
+        "class_id": 1,
+        "confidence": 0.704,
+        "bbox": [
+          125.0,
+          192.0,
+          148.0,
+          263.0
+        ],
+        "center": [
+          136.5,
+          227.5
+        ],
+        "detection_id": "bc557345-09f4-4088-af4d-12df0e11f388"
+      }
+    },
+    "geometry": null
+  },
+  {
+    "frame_idx": 57,
+    "timestamp": 2.28,
+    "scene": {
+      "ball": null,
+      "batsman": null,
+      "bowler": null,
+      "wicketkeeper": null,
+      "nonstriker": null,
+      "umpires": [],
+      "stumps": {
+        "class_name": "stumps",
+        "class_id": 1,
+        "confidence": 0.759,
+        "bbox": [
+          113.0,
+          202.0,
+          143.0,
+          308.0
+        ],
+        "center": [
+          128.0,
+          255.0
+        ],
+        "detection_id": "14ac4200-2e71-4469-a994-1a04257285b8"
+      }
+    },
+    "geometry": null
+  },
+  {
+    "frame_idx": 60,
+    "timestamp": 2.4,
+    "scene": {
+      "ball": null,
+      "batsman": null,
+      "bowler": null,
+      "wicketkeeper": null,
+      "nonstriker": null,
+      "umpires": [],
+      "stumps": {
+        "class_name": "stumps",
+        "class_id": 1,
+        "confidence": 0.757,
+        "bbox": [
+          103.0,
+          229.0,
+          131.0,
+          337.0
+        ],
+        "center": [
+          117.0,
+          283.0
+        ],
+        "detection_id": "27f960e1-7bd8-492c-8072-565d5e3d0a27"
+      }
+    },
+    "geometry": null
+  },
+  {
+    "frame_idx": 63,
+    "timestamp": 2.52,
+    "scene": {
+      "ball": null,
+      "batsman": null,
+      "bowler": null,
+      "wicketkeeper": null,
+      "nonstriker": null,
+      "umpires": [],
+      "stumps": {
+        "class_name": "stumps",
+        "class_id": 1,
+        "confidence": 0.782,
+        "bbox": [
+          95.0,
+          240.0,
+          114.0,
+          367.0
+        ],
+        "center": [
+          104.5,
+          303.5
+        ],
+        "detection_id": "1374f10d-c464-4ecb-a7c3-94de114a8724"
+      }
+    },
+    "geometry": null
+  },
+  {
+    "frame_idx": 66,
+    "timestamp": 2.64,
+    "scene": {
+      "ball": null,
+      "batsman": null,
+      "bowler": null,
+      "wicketkeeper": null,
+      "nonstriker": null,
+      "umpires": [],
+      "stumps": {
+        "class_name": "stumps",
+        "class_id": 1,
+        "confidence": 0.832,
+        "bbox": [
+          87.0,
+          248.0,
+          101.0,
+          379.0
+        ],
+        "center": [
+          94.0,
+          313.5
+        ],
+        "detection_id": "0f3dd79c-e2f7-4acb-a3dc-3438bf7003da"
+      }
+    },
+    "geometry": null
+  },
+  {
+    "frame_idx": 69,
+    "timestamp": 2.76,
+    "scene": {
+      "ball": null,
+      "batsman": null,
+      "bowler": null,
+      "wicketkeeper": null,
+      "nonstriker": null,
+      "umpires": [],
+      "stumps": {
+        "class_name": "stumps",
+        "class_id": 1,
+        "confidence": 0.814,
+        "bbox": [
+          78.0,
+          239.0,
+          94.0,
+          380.0
+        ],
+        "center": [
+          86.0,
+          309.5
+        ],
+        "detection_id": "d778f986-e043-46f4-9b30-2d17da4b17c8"
+      }
+    },
+    "geometry": null
+  },
+  {
+    "frame_idx": 72,
+    "timestamp": 2.88,
+    "scene": {
+      "ball": null,
+      "batsman": null,
+      "bowler": null,
+      "wicketkeeper": null,
+      "nonstriker": null,
+      "umpires": [],
+      "stumps": {
+        "class_name": "stumps",
+        "class_id": 1,
+        "confidence": 0.895,
+        "bbox": [
+          72.0,
+          232.0,
+          97.0,
+          382.0
+        ],
+        "center": [
+          84.5,
+          307.0
+        ],
+        "detection_id": "a495c759-fbce-45e5-869c-a507b9e82414"
+      }
+    },
+    "geometry": null
+  }
+]

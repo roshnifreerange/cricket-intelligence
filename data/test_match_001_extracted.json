@@ -1,0 +1,38 @@
+[
+  {
+    "ball_id": "test_match_001_1_1",
+    "match_id": "test_match_001",
+    "innings": 1,
+    "over": 1,
+    "ball_number": 1,
+    "bowler_name": "unknown",
+    "batsman_name": "unknown",
+    "bowler_type": "pace",
+    "line": "leg",
+    "length": "full",
+    "variation": "none",
+    "bounce_behavior": "normal",
+    "movement": "none",
+    "shot_type": "lofted",
+    "footwork": "neutral",
+    "contact_quality": "clean",
+    "outcome": "6",
+    "runs_scored": 6,
+    "confidence": {
+      "bowler_type": 1.0,
+      "line": 0.9,
+      "length": 0.9,
+      "shot_type": 0.9,
+      "outcome": 1.0,
+      "contact_quality": 0.9
+    },
+    "clip_path": "data/ball_clips/test_match_001/test_match_001_inn1_ov1_b1.mp4",
+    "clip_start_time": null,
+    "clip_end_time": null,
+    "raw_description": "The pace bowler delivers a full ball on the leg stump, which the batsman lofts cleanly over the leg side for a six.",
+    "is_reviewed": false,
+    "reviewed_by": null,
+    "created_at": "2026-04-14T11:37:28.070010",
+    "updated_at": "2026-04-14T11:37:28.070191"
+  }
+]
