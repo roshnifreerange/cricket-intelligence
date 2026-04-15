@@ -38,10 +38,9 @@ st.markdown("""
     .confidence-low { color: #ff4444; font-weight: bold; }
     .ball-header { 
         background: linear-gradient(135deg, #1a1a2e, #16213e);
-        padding: 1rem; border-radius: 0.5rem; 
+        padding: 1rem; border-radius: 0.5rem;
         border: 1px solid #333; margin-bottom: 1rem;
     }
-    div[data-testid="stMetricValue"] { font-size: 1.5rem; }
 </style>
 """, unsafe_allow_html=True)
 

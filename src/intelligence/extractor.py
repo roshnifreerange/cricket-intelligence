@@ -16,7 +16,7 @@ from rich.console import Console
 from rich.progress import track
 
 from src.intelligence.schema import BallRecord, ConfidenceScores, GEMINI_JSON_SCHEMA
-from src.intelligence.prompt import get_single_ball_prompt, get_cv_augmented_prompt, get_system_prompt
+from src.intelligence.prompt import get_single_ball_prompt, get_cv_augmented_prompt, get_system_prompt, get_batch_prompt
 
 load_dotenv()
 console = Console()
@@ -260,6 +260,130 @@ class GeminiExtractor:
 
         console.print(f"\n[bold green]✓ Extracted {len(records)}/{len(clip_files)} balls[/bold green]")
         return records
+
+    def extract_from_video(
+        self,
+        video_path: str,
+        match_id: str = "unknown",
+        innings: int = 1,
+        start_over: int = 1,
+    ) -> list[BallRecord]:
+        """
+        Send a full video to Gemini and let it auto-detect all ball deliveries.
+
+        Gemini watches the entire video, identifies each delivery, and returns
+        a JSON array — one object per ball. No ffmpeg segmentation required.
+
+        Args:
+            video_path: Path to the full match/highlight video
+            match_id:   Match identifier
+            innings:    Innings number
+            start_over: Starting over number for ball numbering
+
+        Returns:
+            List of BallRecord objects, one per detected delivery
+        """
+        video_file = Path(video_path)
+        if not video_file.exists():
+            console.print(f"[red]✗[/red] Video not found: {video_path}")
+            return []
+
+        console.print(f"[blue]⟳[/blue] Uploading video to Gemini: {video_file.name}")
+        console.print("  [dim]Gemini will auto-detect ball deliveries — no pre-segmentation[/dim]")
+
+        try:
+            uploaded_file = self.client.files.upload(file=video_path)
+
+            while uploaded_file.state == "PROCESSING":
+                time.sleep(2)
+                uploaded_file = self.client.files.get(name=uploaded_file.name)
+
+            if uploaded_file.state == "FAILED":
+                console.print(f"[red]✗[/red] Video processing failed")
+                return []
+
+            batch_schema = {
+                "type": "array",
+                "items": GEMINI_JSON_SCHEMA,
+            }
+
+            response = self.client.models.generate_content(
+                model=self.model_name,
+                contents=[
+                    types.Content(
+                        role="user",
+                        parts=[
+                            types.Part.from_uri(
+                                file_uri=uploaded_file.uri,
+                                mime_type=uploaded_file.mime_type,
+                            ),
+                            types.Part.from_text(text=get_batch_prompt()),
+                        ],
+                    )
+                ],
+                config=types.GenerateContentConfig(
+                    system_instruction=get_system_prompt(),
+                    response_mime_type="application/json",
+                    response_schema=batch_schema,
+                    temperature=0.2,
+                ),
+            )
+
+            raw_list = json.loads(response.text)
+            if not isinstance(raw_list, list):
+                raw_list = [raw_list]
+
+            console.print(f"[green]✓[/green] Gemini detected [bold]{len(raw_list)}[/bold] ball deliveries")
+
+            records = []
+            for i, raw_json in enumerate(raw_list):
+                over = start_over + (i // 6)
+                ball = (i % 6) + 1
+                ball_id = f"{match_id}_{over}_{ball}"
+
+                record = BallRecord(
+                    ball_id=ball_id,
+                    match_id=match_id,
+                    innings=innings,
+                    over=over,
+                    ball_number=ball,
+                    bowler_type=raw_json.get("bowler_type", "unknown"),
+                    line=raw_json.get("line", "unknown"),
+                    length=raw_json.get("length", "unknown"),
+                    variation=raw_json.get("variation", "none"),
+                    shot_type=raw_json.get("shot_type", "unknown"),
+                    footwork=raw_json.get("footwork", "unknown"),
+                    contact_quality=raw_json.get("contact_quality", "unknown"),
+                    outcome=raw_json.get("outcome", "unknown"),
+                    bounce_behavior=raw_json.get("bounce_behavior", "unknown"),
+                    movement=raw_json.get("movement", "unknown"),
+                    bowler_name=raw_json.get("bowler_name"),
+                    batsman_name=raw_json.get("batsman_name"),
+                    raw_description=raw_json.get("raw_description", ""),
+                    clip_path=str(video_path),
+                    confidence=ConfidenceScores(**raw_json.get("confidence", {})),
+                )
+                records.append(record)
+
+                conf = (record.confidence.line + record.confidence.length + record.confidence.shot_type) / 3
+                color = "green" if conf > 0.7 else "yellow" if conf > 0.4 else "red"
+                console.print(
+                    f"  [{color}]Ball {ball_id}[/{color}]: "
+                    f"{record.bowler_type.value} | {record.line.value} | "
+                    f"{record.length.value} | {record.shot_type.value} → "
+                    f"{record.outcome.value} (conf: {conf:.2f})"
+                )
+
+            try:
+                self.client.files.delete(name=uploaded_file.name)
+            except Exception:
+                pass
+
+            return records
+
+        except Exception as e:
+            console.print(f"[red]✗[/red] Batch video analysis failed: {e}")
+            return []
 
     def export_to_json(self, records: list[BallRecord], output_path: str) -> None:
         """Export ball records to a JSON file."""

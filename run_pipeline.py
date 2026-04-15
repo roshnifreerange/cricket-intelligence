@@ -27,8 +27,9 @@ def run_full_pipeline(
     max_clips: int = 30,
     gemini_model: str = "gemini-2.5-flash",
     skip_extraction: bool = False,
-    use_cv_detection: bool = True,       # NEW: enable Roboflow CV pre-analysis
-    cv_frame_offset: float = 0.4,        # NEW: sample frame at 40% into each clip
+    use_cv_detection: bool = True,
+    cv_frame_offset: float = 0.4,
+    batch_mode: bool = False,            # NEW: send full video to Gemini, skip segmentation
 ):
     """Run the complete cricket intelligence pipeline."""
 
@@ -58,6 +59,47 @@ def run_full_pipeline(
         )
     else:
         console.print("[red]Provide --video or --youtube-url[/red]")
+        return
+
+    # ===== Batch Mode: full video → Gemini auto-detects deliveries =====
+    if batch_mode:
+        console.print("\n[bold cyan]Batch Mode: Full Video → Gemini Auto-Detection[/bold cyan]")
+        console.print("  [dim]Skipping ffmpeg segmentation — Gemini will identify all ball deliveries[/dim]")
+
+        from src.intelligence.extractor import GeminiExtractor
+        gemini = GeminiExtractor(model_name=gemini_model)
+        records = gemini.extract_from_video(video_path, match_id=match_id)
+
+        if not records:
+            console.print("[red]✗ No deliveries detected. Exiting.[/red]")
+            return
+
+        console.print(f"\n[bold]Step 4: Validation & Normalization[/bold]")
+        from src.validation.normalizer import BallRecordValidator
+        validator = BallRecordValidator()
+        validated_records, val_stats = validator.validate_batch(records)
+
+        console.print(f"\n[bold]Step 5: Database Storage[/bold]")
+        from src.storage.db import CricketDB
+        db = CricketDB()
+        db.create_match({"match_id": match_id, "format": format_type, "team_a": team_a, "team_b": team_b})
+        db.save_balls_batch(validated_records)
+
+        output_json = f"data/{match_id}_extracted.json"
+        gemini.export_to_json(validated_records, output_json)
+
+        stats = db.get_stats(match_id)
+        console.print(Panel.fit(
+            f"[bold green]✅ Batch Pipeline Complete![/bold green]\n\n"
+            f"Match: {match_id} ({team_a} vs {team_b})\n"
+            f"Balls detected by Gemini: {stats['total']}\n"
+            f"Avg confidence: {stats['avg_confidence']:.1%}\n"
+            f"JSON export: {output_json}\n\n"
+            f"[cyan]Next steps:[/cyan]\n"
+            f"  1. Review: streamlit run ui/app.py\n"
+            f"  2. API: python -m src.api.main",
+            border_style="green",
+        ))
         return
 
     # ===== Step 2: Ball Segmentation =====
@@ -233,6 +275,8 @@ if __name__ == "__main__":
                         help="Disable Roboflow CV pre-analysis (Gemini-only mode)")
     parser.add_argument("--cv-frame-offset", type=float, default=0.4,
                         help="Fraction into each clip to sample for CV (default: 0.4)")
+    parser.add_argument("--batch-mode", action="store_true",
+                        help="Send full video to Gemini — Gemini auto-detects all ball deliveries (no segmentation)")
     args = parser.parse_args()
 
     run_full_pipeline(
@@ -250,4 +294,5 @@ if __name__ == "__main__":
         skip_extraction=args.skip_extraction,
         use_cv_detection=not args.no_cv,
         cv_frame_offset=args.cv_frame_offset,
+        batch_mode=args.batch_mode,
     )
